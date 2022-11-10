@@ -8,5 +8,5 @@ def say_hello(to):
     "Say hello to somebody"
     return f'Hello {to}!'
 
-# %% ../nbs/00_core.ipynb 6
+# %% ../nbs/00_core.ipynb 8
 def foo(): pass
