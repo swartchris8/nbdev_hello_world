@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_hello_world"
+  site-url: "https://swartchris8.github.io/nbdev_hello_world"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/swartchris8/nbdev_hello_world"
